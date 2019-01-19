@@ -3,7 +3,7 @@ A skeleton to help make getting started with webpack, babel, react, redux, and a
 
 In your terminal, run:
 ```
-git clone https://github.com/dhammitt/project-init-skeleton.git
+git clone https://github.com/dhammitt/project-init-skeleton.git <dirname>
 ```
 
 ### Babel
