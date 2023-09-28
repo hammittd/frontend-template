@@ -1,11 +1,6 @@
 # Get Started
 A skeleton to help make getting started with webpack, babel, react, redux, and associated dependencies and devtools faster 🚀
 
-In your terminal, run:
-```
-git clone https://github.com/dhammitt/project-init-skeleton.git <dirname>
-```
-
 ### Babel
 - @babel/cli
 - @babel/core
